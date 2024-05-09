@@ -23,11 +23,11 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "MAKERSPACE"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDj0LYrOzL3A_ndM9VDvh1I6FfFOkun600"
+#define API_KEY ""
 
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://ther-e-man-default-rtdb.firebaseio.com/" 
